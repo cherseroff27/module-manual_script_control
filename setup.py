@@ -6,9 +6,8 @@ setup(
     packages=find_packages(),
     install_requires=[
     ],
-    description='Генерация комментариев через ChatGPT.'
-                '(Предполагается автоматизация с помощью модуля browser_manager,'
-                'использующего selenium, undetected_chromedriver).',
+    description='Модуль, предоставляющий функционал, позволяющий останавливать выполнение скрипта'
+                'до решения пользователя продолжить его или завершить вовсе.',
     author='cherseroff',
     author_email='proffitm1nd@gmail.com',
     url='https://github.com/cherseroff27/module-manual_script_control.git',
