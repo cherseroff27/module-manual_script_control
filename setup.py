@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='module-manual_script_control',
+    name='manual_script_control',
     version='1.0',
     packages=find_packages(),
     install_requires=[
