@@ -10,7 +10,7 @@ setup(
                 'до решения пользователя продолжить его или завершить вовсе.',
     author='cherseroff',
     author_email='proffitm1nd@gmail.com',
-    url='https://github.com/cherseroff27/manual_script_control.git',
+    url='https://github.com/cherseroff27/module-manual_script_control.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
